@@ -1,0 +1,22 @@
+Ejercicios propuestos:
+
+1: correo electronico inacap
+2: desactualizada forma de validar un string
+3: validacion de string y reemplazo de correo de inacap despues del @
+4: while true con funcion, contador, nombres sin repetir
+5: validacion strings, flotantes. repetidos, mayor y menor
+6: validacion strings, nota, while funcion, mayor y menor, promedio, nombre mayor
+7: validacion entero y diferente a ingresar 5, strings, notas, promedio aprobado o reprobado
+8: ejercicio nro5 de la prueba 3: validacion flotantes entre 1.0 y 7.0, while infinito con funcion, ponderado mayor y menor, promedio general, funciones con calculos
+9: validacion enteros, funciones con primos y multiplos de 2, listas de los dos numeros, eliminacion de numeros primos de una lista de tipo dato str
+10: validacion strings, enteros, while infinito funcion, numeros primos, lista numeros, bucle for para sumar una lista tipo str
+11: while infinito funcion, validacion enteros, pasar una lista de tipo str a int
+
+ACTUALIZADA:
+12: Ejercicio unico prueba 4 aplicando: validacion string, flotantes, funciones con calculos, listas str, eliminar de caracter, pasar lista str a float
+13: EJercicio 2 de la prueba4: val string, enteros, while true funcion, funciones calculos, funcion de pasar str a int.
+APRENDIZAJE NUEVO: fitrar listas que digan "ok" y mostrar solo 2 o 3 resultados.
+14: Ejercicio 3 de la prueba 4 (TERMINADA), parte final ordenado segun de mayor a menor segun el costo final
+15: Ejercicio 3 de la prueba 4 (TERMINADA), parte final ordenado de mayor a menor segun el rut 
+
+

@@ -1,0 +1,34 @@
+reforzamiento validacion:
+
+1: formas de validacion enteros, valor entre un numero y otro
+2: validacion entre un numero y otro en 2 funcion y aplicando if si ambas son verdaderas3
+3: desactualizada forma de validacion entre un numero, si contiene caracteres extraños
+4: validacion de dos numeros con cada funcion, llama a la funcion en un bucle true
+
+5: validacion de enteros, aplicando while si no esta entre un numero y otro.
+y otro condicional con el operador logico and
+
+6: validacion enteros, condiciones con operador logicos entre un valor y otro. 
+acumulador y sacar promedio
+
+7: funcion con numero primo, indicar si tal valor es primo o no
+8: actualizada forma de validar un string, menos los caracteres
+nuevo: se aplica el any
+
+9: funcion de mayores y menores, encontrar la edad mas alta y mas baja
+10: validacion string, reemplazo de una letra por otra usando replace, lista str acumulativa.
+funcion con la opcion si quiere descifrar lo escrito, vaciar cadena
+
+11: dos formas de aculumar valores str en una lista:
+la primera con split y la otra sumando la variable str con el valores str ingresado
+
+12: pasar lista str que tiene numeros a int separando espacios usando split()
+13: Funcion de numero primo y eliminar en una lista numeros primos, mostrar la lista
+14: lista str pasar a int, lista str eliminar $ y reemplazar por espacio, lista str modificada pasar a int
+15: reforzamiento contar itinerancia de strings
+16: reforzamiento metodo split, reemplazar caracteres por una cadena vacia, convertir a entero
+17: Reforzamiento calculo de porcentajes, aumento y descuento
+
+
+
+

@@ -1,0 +1,106 @@
+INDICE CURSO [aprendizaje nuevo]:
+
+0: pasar str a int usando la misma variable
+
+-------------[Algoritmo Secuencial]-------------
+None
+
+-------------[estructura condicional simple]-------------
+None
+
+-------------[estructura condicional simple y compuesta]-------------
+n4: contar los digitos de un int, si tiene 2, 3 etc
+
+
+-------------[estructuras condicionales anidadas]-------------:
+n1: trabajar con anidadas sin usar el elif y los operadores logicos.
+solo se utiliza if y else
+
+n2: operaciones anidadas usando solo if y else con los operadores relacionales.
+encontrar el valor mayor y menor
+
+
+-------------[condiciones compuestas con operadores logicos]-------------:
+n1: trabajar con anidadas sin usar elif, pero Si usando operadores logicos
+encontrar el mayor y menor
+
+n3: dos funciones entre un valor y otro en dos int. en codigo global se corta el bucle si los dos numeros cumplen con la condicion que se solicita
+
+n4: CARACTERISTICA DE PYTHON:
+asignacion multiple o asignacion paralela: asignacion multiple de una sola linea
+
+n5: asignacion multiple de 3 variables, si algunos de estos 3 valores es menor que 10, imprimir por pantalla "algunos de los numeros es menor que diez"
+
+n6: asignacion multiple de 3 variables, funcion con condicional si todos son iguales, retornar la suma de esos valores.
+otra funcion con condicional si todos son iguales, retornar el producto de la suma de los valores
+se muestra por pantalla por medio del condicional en el codigo global
+
+n7: asignacion multiple de 2 variables, 4 funciones indicando si es menor o mayor esta en 1, 2, 3, o 4 cuadrante
+n8: asignacion multiple de 2 variabes.
+funcion con parametros de las 2 variables, indicando si esta en en valor y otro en valor, retornar por medio el condicional if en el codigo global y mostrar por pantalla
+
+
+
+-------------[estructura reiterativa while]-------------:
+
+n3: usar el // para truncar operacion con flotantes
+
+n10: pedir 3 valores (validados) y sumarlos en 2 while diferentes.
+condicional si la suma de los dos es mayor, menor o igual mostrar por pantalla.
+las condiciones estas dentro de la funcion y se llama por un condicional
+
+n11: pedir valores en cantidad x, acumular los valores que son pares
+
+
+
+-------------[estructura reiterativa for]-------------:
+
+n2: VALIDACION NUEVA: si es diferente a un numero, continuar. Obligar al usuario a ingresar tal valor
+n3: VALIDACION NUEVA: si tipo de valor flotante no esta entre un valor, retornar
+
+n6: APRENDIZAJE NUEVO: asignacion multiple con 2 variables llamando una Funcion con 2 parametros.
+dentro de la funcion los dos parametros se pregunta y se ingresa el valor, el valor retornado se guarda en las asignaciones multiples
+
+n10: ASIGNACION multiple de 3 variables llamando una funcion que contiene inputs de 3 variables
+Ejercicio importante: contiene operadores logicos
+
+n13: Ejercicio para sumar las edades de estudiantes de turno mañana, tarde y noche
+mostrar el promedio al final
+
+
+-------------[variables enteras, flotantes y cadena de caracteres]-------------:
+
+n1: NUEVO: uso del any, isnumeric(), mayor comprension de encontrar valores mayores y menores por medio de una funcion,
+retorno de strings usando capitalize() y strip()
+
+n2: NUEVO: uso del none para valores str.
+encontrar el mayor valor str alfabeticamente y el menor
+
+n3: NUEVO: Finalizar el bucle por medio de una funcion llamandola con el condicional if
+
+n4: NUEVO: almacenar los valores str en una variable str por medio de la concatenacion.
+funcion que verifica si el valor almacenado es igual al nombre ingresado, de lo contrario repetir de nuevo
+
+
+
+-------------[procesar cadena de caracteres]-------------:
+
+n1: NUEVO: uso del metodo replace.
+funcion que reemplaza la posicion 0 de la variable en funcion de las vocales encontradas
+concatenacion de replace
+
+n2: NUEVO: uso de split() y count.
+validacion de correo electronico inacap
+
+n3: usar el if para reemplazar el indice de posicion 0 en una variable string por cualquier letra, usando replace
+
+n4: dos formas para contar los espacios de un string.
+el primero con el count y el segundo con el if dentro de un for
+
+n5: NUEVO: uso del metodo count para contar las vocales y almacenar el valor en una variable dentro de una funcion
+APRENDIZAJE NUEVO: contatenacion de string con el metodo count
+
+n6: uso de len para vertificar el largo de una clave, si esta entre 10 y 20.
+y uso de len para contar los caracteres si esta estre los parametros establecidos.
+
+
